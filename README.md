@@ -4,4 +4,4 @@
 Practice loops concepts programs 
 
 # need to learn more concepts in loops
-practice more loops concepts programe
+practice more loops concepts programs
